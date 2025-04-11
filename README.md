@@ -154,10 +154,7 @@ static void MX_GPIO_Init(void)
 }
 ```
 ## Output screen shots of proteus  :
-
 ![374392624-ee623030-605c-4fe6-85ac-da49a4e2d429](https://github.com/user-attachments/assets/ff3c0fcb-90e1-4f37-9d06-cb88170457ed)
-
-
 ## Proteus layout(Add pdf screen shot of circuit here)
  ![374392760-c3470bf4-a391-4960-afca-a74f6b56356b](https://github.com/user-attachments/assets/18bf89df-2332-46d3-9d39-75d123fdec6d)
 
